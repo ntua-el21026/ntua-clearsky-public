@@ -58,9 +58,9 @@ verification.
 
 ## Team and licensing
 
-Team 15 coursework includes **Michail Athanasios Peppas**. Preserve the
+Team 15 includes **Michail Athanasios Peppas**. The
 [2025 original-work notice](LICENSE) and the
-[2024 notice crediting Christos Hadjichristofi](LICENSE%20copy) for the
-respective contributions. Third-party terms apply to their own components.
+[2024 notice crediting Christos Hadjichristofi](LICENSE%20copy) cover their
+respective contributions. Third-party components retain their own terms.
 The [AI-assisted development record](ai-log/README.md) documents the team’s
 use of tools during the course.
